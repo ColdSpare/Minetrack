@@ -3,5 +3,10 @@
 		"name": "Blasts",
 		"ip": "play.blastsmc.net",
 		"type": "PC"
+	},
+	{
+		"name": "Estonic",
+		"ip": "estonic.minehut.gg",
+		"type": "PC"
 	}
 ]
