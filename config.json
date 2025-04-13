@@ -15,4 +15,5 @@
 	"logToDatabase": true,
 	"graphDuration": 1209600000,
 	"serverGraphDuration": 6000000
+	"maxPlayerCount": 500
 }
